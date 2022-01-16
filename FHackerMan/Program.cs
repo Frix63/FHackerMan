@@ -88,8 +88,8 @@ namespace FHackerMan
                         //převod hodnoty z typu string na int
                         try
                         {
-                            Console.WriteLine("FHackerMan version.2.0.0");
-                            Console.WriteLine("Your own HackerMan screen!");
+                            Console.WriteLine("FHackerMan version.3.0.1");
+                            Console.WriteLine("Your own fully customizable HackerMan screen!");
                             Console.WriteLine("");
                             Console.WriteLine("-- MAIN MENU --");
                             Console.WriteLine("0 - Start");
@@ -140,8 +140,8 @@ namespace FHackerMan
                 //CREDITS
                 while (creditsScreen == true)
                 {
-                    Console.WriteLine("FHackerMan version.2.0.0");
-                    Console.WriteLine("Your own HackerMan screen!");
+                    Console.WriteLine("FHackerMan version.3.0.1");
+                    Console.WriteLine("Your own fully customizable HackerMan screen!");
                     Console.WriteLine("");
                     Console.WriteLine("-- CREDITS --");
 
@@ -186,8 +186,8 @@ namespace FHackerMan
                         //převod hodnoty z typu string na int
                         try
                         {
-                            Console.WriteLine("FHackerMan version.2.0.0");
-                            Console.WriteLine("Your own HackerMan screen!");
+                            Console.WriteLine("FHackerMan version.3.0.1");
+                            Console.WriteLine("Your own fully customizable HackerMan screen!");
                             Console.WriteLine("");
                             Console.WriteLine("-- SETTINGS --");
                             Console.WriteLine("0 - layer speed");
@@ -267,8 +267,8 @@ namespace FHackerMan
                         //převod hodnoty z typu string na int
                         try
                         {
-                            Console.WriteLine("FHackerMan version.2.0.0");
-                            Console.WriteLine("Your own HackerMan screen!");
+                            Console.WriteLine("FHackerMan version.3.0.1");
+                            Console.WriteLine("Your own fully customizable HackerMan screen!");
                             Console.WriteLine("");
                             Console.WriteLine("Set the speed of layer generating(100 = 1s interval)");
                             Speed = Console.ReadLine();
@@ -305,8 +305,8 @@ namespace FHackerMan
                         //převod hodnoty z typu string na int
                         try
                         {
-                            Console.WriteLine("FHackerMan version.2.0.0");
-                            Console.WriteLine("Your own HackerMan screen!");
+                            Console.WriteLine("FHackerMan version.3.0.1");
+                            Console.WriteLine("Your own fully customizable HackerMan screen!");
                             Console.WriteLine("");
                             Console.WriteLine("Set the number of lines (1 or more)");
                             heightString = Console.ReadLine();
@@ -342,8 +342,8 @@ namespace FHackerMan
                         //převod hodnoty z typu string na int
                         try
                         {
-                            Console.WriteLine("FHackerMan version.2.0.0");
-                            Console.WriteLine("Your own HackerMan screen!");
+                            Console.WriteLine("FHackerMan version.3.0.1");
+                            Console.WriteLine("Your own fully customizable HackerMan screen!");
                             Console.WriteLine("");
                             Console.WriteLine("Set the number of numbers in columns");
                             numberONumbersString = Console.ReadLine();
@@ -379,8 +379,8 @@ namespace FHackerMan
                         //převod hodnoty z typu string na int
                         try
                         {
-                            Console.WriteLine("FHackerMan version.2.0.0");
-                            Console.WriteLine("Your own HackerMan screen!");
+                            Console.WriteLine("FHackerMan version.3.0.1");
+                            Console.WriteLine("Your own fully customizable HackerMan screen!");
                             Console.WriteLine("");
                             Console.WriteLine("Set the range of number generation... (example 9 = 0 - 9 | min. 1)");
                             randomOrngString = Console.ReadLine();
@@ -405,8 +405,8 @@ namespace FHackerMan
                     //NASTAVENÍ MEZISYMBOLU
                     while (spaceSymbol == true)
                     {
-                        Console.WriteLine("FHackerMan version.2.0.0");
-                        Console.WriteLine("Your own HackerMan screen!");
+                        Console.WriteLine("FHackerMan version.3.0.1");
+                        Console.WriteLine("Your own fully customizable HackerMan screen!");
                         Console.WriteLine("");
                         Console.WriteLine("Set the symbol between columns");
                         try
@@ -437,8 +437,8 @@ namespace FHackerMan
                         //převod hodnoty z typu string na int
                         try
                         {
-                            Console.WriteLine("FHackerMan version.2.0.0");
-                            Console.WriteLine("Your own HackerMan screen!");
+                            Console.WriteLine("FHackerMan version.3.0.1");
+                            Console.WriteLine("Your own fully customizable HackerMan screen!");
                             Console.WriteLine("");
                             Console.WriteLine("COLORS!!!");
                             Console.WriteLine("");
@@ -601,8 +601,8 @@ namespace FHackerMan
                         //převod hodnoty z typu string na int
                         try
                         {
-                            Console.WriteLine("FHackerMan version.2.0.0");
-                            Console.WriteLine("Your own HackerMan screen!");
+                            Console.WriteLine("FHackerMan version.3.0.1");
+                            Console.WriteLine("Your own fully customizable HackerMan screen!");
                             Console.WriteLine("");
                             Console.WriteLine("Set the number of columns (1 or more)");
                             widthString = Console.ReadLine();
