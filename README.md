@@ -1,3 +1,4 @@
+# FHackerMan
 >>>>>>>>>>>>>>>>>>
 Your own fully customizable HackerMan screen!
 >>>>>>>>>>>>>>>>>>
@@ -16,6 +17,6 @@ Click install and now u can use your FHackerMan app whenever u want! <3
 
 
 <<<<<<<<<<<<<<<<<< Name???
-# FHackerMan
+FHackerMan
 F - Frix :D
 HackerMan - Edgy meme
