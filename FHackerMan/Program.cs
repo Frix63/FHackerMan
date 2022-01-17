@@ -19,7 +19,7 @@ namespace FHackerMan
             int widthNum = 4;
             int heightNum = 45;
             int numberONumbersInt = 8;
-            int randomOrngInt = 2;
+            int randomOrngInt = 1;
             int colorPInt;
             string Speed;
             string dec;
