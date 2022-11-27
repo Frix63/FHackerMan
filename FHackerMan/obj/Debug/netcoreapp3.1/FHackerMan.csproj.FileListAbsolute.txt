@@ -12,3 +12,17 @@ C:\Users\Chris\Source\Repos\Frix63\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1
 C:\Users\Chris\Source\Repos\Frix63\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1\FHackerMan.pdb
 C:\Users\Chris\Source\Repos\Frix63\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1\FHackerMan.genruntimeconfig.cache
 C:\Users\Chris\Source\Repos\Frix63\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1\FHackerMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\bin\Debug\netcoreapp3.1\FHackerMan.exe
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\bin\Debug\netcoreapp3.1\FHackerMan.deps.json
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\bin\Debug\netcoreapp3.1\FHackerMan.runtimeconfig.json
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\bin\Debug\netcoreapp3.1\FHackerMan.runtimeconfig.dev.json
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\bin\Debug\netcoreapp3.1\FHackerMan.dll
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\bin\Debug\netcoreapp3.1\FHackerMan.pdb
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1\FHackerMan.csproj.AssemblyReference.cache
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1\FHackerMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1\FHackerMan.AssemblyInfoInputs.cache
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1\FHackerMan.AssemblyInfo.cs
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1\FHackerMan.csproj.CoreCompileInputs.cache
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1\FHackerMan.dll
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1\FHackerMan.pdb
+C:\Users\FrixL\OneDrive\Plocha\FHackerMan\FHackerMan\obj\Debug\netcoreapp3.1\FHackerMan.genruntimeconfig.cache
